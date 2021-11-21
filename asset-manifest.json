@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hpregencounter/static/css/main.43809231.chunk.css",
+    "main.js": "/hpregencounter/static/js/main.76a8f0a4.chunk.js",
+    "main.js.map": "/hpregencounter/static/js/main.76a8f0a4.chunk.js.map",
+    "runtime-main.js": "/hpregencounter/static/js/runtime-main.b57e82b9.js",
+    "runtime-main.js.map": "/hpregencounter/static/js/runtime-main.b57e82b9.js.map",
+    "static/js/2.7589c8bc.chunk.js": "/hpregencounter/static/js/2.7589c8bc.chunk.js",
+    "static/js/2.7589c8bc.chunk.js.map": "/hpregencounter/static/js/2.7589c8bc.chunk.js.map",
+    "static/js/3.27aa1124.chunk.js": "/hpregencounter/static/js/3.27aa1124.chunk.js",
+    "static/js/3.27aa1124.chunk.js.map": "/hpregencounter/static/js/3.27aa1124.chunk.js.map",
+    "index.html": "/hpregencounter/index.html",
+    "static/css/main.43809231.chunk.css.map": "/hpregencounter/static/css/main.43809231.chunk.css.map",
+    "static/js/2.7589c8bc.chunk.js.LICENSE.txt": "/hpregencounter/static/js/2.7589c8bc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hpregencounter/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b57e82b9.js",
+    "static/js/2.7589c8bc.chunk.js",
+    "static/css/main.43809231.chunk.css",
+    "static/js/main.76a8f0a4.chunk.js"
+  ]
+}
